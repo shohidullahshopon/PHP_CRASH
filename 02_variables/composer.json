@@ -1,0 +1,14 @@
+{
+  "name" : "02_variables/02_variables",
+  "type" : "project",
+  "description": "A simple PHP project",
+  "keywords": [],
+  "license" : "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
